@@ -1,0 +1,23 @@
+{
+    "name": "Hartal Website",
+    "short_name": "Hartal Website",
+    "start_url": ".",
+    "display": "minimal-ui",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Portfolio website for Hartal Website. This portfolio chowcases his education, skills & expertise, experience, acheivements and hobbies.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
